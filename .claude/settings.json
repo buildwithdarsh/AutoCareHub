@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/alex/Dev/Personal/Darsh Gupta/AutoCareHub/src/app/$dir/**)",
+      "Bash(git merge:*)",
+      "Bash(git fetch:*)",
+      "Bash(npm info:*)"
+    ]
+  }
+}
